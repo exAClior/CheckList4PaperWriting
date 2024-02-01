@@ -1,0 +1,38 @@
+#+TITLE: Abstract
+
+* Clarify and Coherence [0/0]
+** TODO What's your contribution [0/2]
+- [ ] Past simple, present perfect tense for anything you did vs. what is widely
+  known
+- [ ] Active : use we
+** TODO Avoid referencing ambiguity [0/4]
+- [ ] No reference ambiguity, don't use: it, this, that
+- [ ] Consistnt language: a method is a method is a method and it never a scheme.
+- [ ] Use phrases that are accepted as friendly. See 1.4.2 in book
+- [ ] Keep sentences less than $25$ words.
+
+** TODO Length [/]
+- [ ] Between 80 to 250 words
+- [ ] Single paragraph
+
+** TODO What kind of language [/]
+- [ ] Not too many acronyms
+
+** TODO A Generic Abstract Model [/]
+- [ ] Essential factual background
+- [ ] State the problem
+- [ ] Include achievement and value
+- [ ] Include methods, results, comparison with previous results, implications
+- [ ] Applications
+- [ ] Map to existing knowledge
+** Tense
+- [ ] What paper does: present simple
+- [ ] Method: past simple
+- [ ] Results: past simple or present simple
+- [ ] Achievement: present perfect
+
+* Types of Abstract
+- There are examples in this section of the book
+
+* Language
+- What kind of phrases are useful are listed here
